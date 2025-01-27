@@ -8,7 +8,8 @@
     "version": "0.0.0-placeholder",
     "dependencies": {
       "@ax/system-strings": "^8.0.7",
-      "@ax/system-math": "^8.0.7"
+      "@ax/system-math": "^8.0.7",
+      "@ax/system-conversion": "^9.0.12"
     },
     "devDependencies": {
       "@ax/sdk": "^2411.0.0",
@@ -68,6 +69,13 @@
       "version": "8.0.7",
       "integrity": "sha512-W+jM3gP4BguLMJJprVvEOXkqmsNsqR3BAWmwRM2lsQ6cgMSYheuzXhpBTR3MaIYX4UYM7RXEoQ6sDEszrQ2q9A==",
       "resolved": "https://registry.simatic-ax.siemens.io/@ax/system-math/-/system-math-8.0.7.tgz",
+      "dependencies": {}
+    },
+    "@ax/system-conversion": {
+      "name": "@ax/system-conversion",
+      "version": "9.0.12",
+      "integrity": "sha512-A37Ch1QgvzufKFSog7+7nM5VHr5nRN/EXaogTPPRDoYz5Gu/CieM1sPgII7y+KicmhFywxk8pTnNDFrWZeeshg==",
+      "resolved": "https://registry.simatic-ax.siemens.io/@ax/system-conversion/-/system-conversion-9.0.12.tgz",
       "dependencies": {}
     },
     "@ax/apax-build": {
